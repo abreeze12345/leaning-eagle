@@ -37,19 +37,19 @@ $container = get_theme_mod( 'understrap_container_type' );
 <!--							(--><?php //printf( // WPCS: XSS ok.
 //							/* translators:*/
 //								esc_html__( 'Version: %1$s', 'understrap' ), $the_theme->get( 'Version' ) ); ?><!--)-->
-<!--					</div><!-- .site-info -->-->
+<!--					</div><!-- .site-info -->
 <!---->
-<!--				</footer><!-- #colophon -->-->
+<!--				</footer><!-- #colophon -->
 <!---->
-<!--			</div><!--col end -->-->
+<!--			</div><!--col end -->
 <!---->
-<!--		</div><!-- row end -->-->
+<!--		</div><!-- row end -->
 <!---->
-<!--	</div><!-- container end -->-->
+<!--	</div><!-- container end -->
 <!---->
-<!--</div><!-- wrapper end -->-->
+<!--</div><!-- wrapper end -->
 <!---->
-<!--</div><!-- #page we need this extra closing tag here -->-->
+<!--</div><!-- #page we need this extra closing tag here -->
 
 <?php wp_footer(); ?>
 

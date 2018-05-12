@@ -69,3 +69,26 @@ require get_template_directory() . '/inc/woocommerce.php';
  * Load Editor functions.
  */
 require get_template_directory() . '/inc/editor.php';
+
+
+/* Register Custom CSS */
+wp_register_style("customcss", get_template_directory_uri() . "/css/custom.css");
+
+/* Register jQuery */
+wp_deregister_script("jquery");
+wp_register_script("jquery", get_template_directory_uri() . "/js/jquery-3.3.1.min.js");
+
+/* Register Custom JS */
+wp_register_script("customjs", get_template_directory_uri() . "/js/custom.js");
+
+/* Register animate.css */
+wp_register_style("animate", get_template_directory_uri() . "/css/animate.css");
+
+/* Enqueue Everything */
+function custom_enqueue() {
+    wp_enqueue_style("customcss");
+    wp_enqueue_script("jquery");
+    wp_enqueue_script("customjs");
+    wp_enqueue_style("animate");
+}
+add_action("wp_enqueue_scripts", custom_enqueue());
