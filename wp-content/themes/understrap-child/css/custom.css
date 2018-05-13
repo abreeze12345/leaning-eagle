@@ -5,7 +5,7 @@
         right: 10%;
     }
     .lp-row-1 {
-        height: 75vh;
+        height: 68vh;
     }
     .lp-row-2 {
         height: 25vh;
@@ -13,11 +13,14 @@
 }
 @media only screen and (max-width: 766px) {
     .lp-row-1 {
-        height: 100vh;
+        height: 93vh;
     }
     .lp-row-2 {
         height: 20vh;
     }
+}
+.navbar {
+    min-height: 7vh;
 }
 
 
@@ -40,12 +43,56 @@
     background-size: cover;
 }
 .lp-row-2 {
-    padding-left: 20px;
-    padding-right: 20px;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding-left: 2px;
+    padding-right: 2px;
+    padding-top: 2px;
 }
-.lp-row-2 .col-3 {
-    padding-left: 3px;
-    padding-right: 3px;
+.lp-row-2 .center-all {
+    padding-left: 1px;
+    padding-right: 1px;
+    display: table;
+    height: 100%;
+    background-clip: content-box;
+}
+.lp-row-2 .center-all h4 {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+.blur {
+    -webkit-backdrop-filter: blur(2px);
+}
+.blur:hover {
+    -webkit-backdrop-filter: blur(0px);
+}
+#cell-1 {
+    background-size: cover;
+    background-position-y: bottom;
+    background-position-x: center;
+}
+#cell-2 {
+    background-size: cover;
+    background-position-y: bottom;
+    background-position-x: center;
+}
+#cell-3 {
+    background-size: cover;
+    background-position-y: center;
+    background-position-x: center;
+}
+#cell-4 {
+    background-size: cover;
+    background-position-y: center;
+    background-position-x: center;
+}
+
+/* DELAYS */
+.short-wait {
+    animation-delay: 1s;
+}
+.med-wait {
+    animation-delay: 2s;
+}
+.long-wait {
+    animation-delay: 3s;
 }
