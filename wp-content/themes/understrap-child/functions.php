@@ -71,7 +71,7 @@ require get_template_directory() . '/inc/woocommerce.php';
 require get_template_directory() . '/inc/editor.php';
 
 
-/* Register Custom CSS */
+/* Register Custom CSS and SCSS */
 wp_register_style("customcss", get_template_directory_uri() . "/css/custom.css");
 
 /* Register jQuery */
