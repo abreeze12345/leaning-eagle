@@ -69,3 +69,12 @@ require get_template_directory() . '/inc/woocommerce.php';
  * Load Editor functions.
  */
 require get_template_directory() . '/inc/editor.php';
+
+
+/* Enqueue Scripts and Styles */
+function style_enqueue() {
+    wp_enqueue_style("my-style", get_template_directory_uri() . '/css/my-style.css');
+}
+
+/* Enqueue Scrips and Styles when they should be */
+add_action('wp_enqueue_scripts', 'style_enqueue');
