@@ -1,17 +1,19 @@
+body {
+    font-family: 'IBM Plex Sans', sans-serif;
+}
 .contact-row {
     margin-top: 10px;
 }
 .header-row {
     margin-top: 25px;
-}
-.header-row h1 {
-    font-family: 'IBM Plex Sans', sans-serif;
+    margin-bottom: 20px;
 }
 .lp-row-1 {
     height: 500px;
     background-size: cover;
-    background-position-y: 90%;
+    background-position-y: 40%;
+    background-position-x: center;
 }
-.test-row {
-    height: 1000px;
+.lp-row-2 {
+    margin-top: 20px;
 }

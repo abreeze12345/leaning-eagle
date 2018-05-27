@@ -48,7 +48,7 @@ $container = get_theme_mod('understrap_container_type');
         </div>
     </div>
     <div class="row header-row">
-        <div class="col-4 offset-4">
+        <div class="col-12">
             <h1 class="text-center">Leaning Eagle Coffee Bar</h1>
         </div>
     </div>
