@@ -2,28 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3727f50d-5fb9-4078-8339-81cab88417b4" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child/.idea/understrap-child.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child/.idea/watcherTasks.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child/css/animate.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child/css/custom.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child/css/theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/understrap-child/css/theme.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/understrap-child/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/understrap-child/functions.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/understrap-child/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child/img/chca.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child/img/drinks.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child/img/food.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child/img/students.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child/img/temp-1-comp.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child/img/temp-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child/js/custom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child/js/jquery-3.3.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child/page-templates/landing-page.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child/page-templates/menu.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child/submission.php" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/understrap-child/page-templates/landing-page.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/understrap-child/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -37,8 +18,22 @@
       <file leaf-file-name="wp-config.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+            <state relative-caret-position="60">
+              <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="woocommerce.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/understrap-child/woocommerce.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/understrap-child/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -53,7 +48,7 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/understrap-child/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
@@ -62,10 +57,27 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="landing-page.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/understrap-child/page-templates/landing-page.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/wp-content/themes/understrap-child/page-templates/landing-page.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/understrap-child/style.css" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -127,6 +139,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wp-content/themes" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -149,12 +166,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527385648858</updated>
-      <workItem from="1527385650068" duration="493000" />
+      <workItem from="1527385650068" duration="1186000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="493000" />
+    <option name="totallyTimeSpent" value="1186000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="840" y="22" width="840" height="987" extended-state="0" />
@@ -188,13 +205,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/index.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -205,6 +215,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/understrap-child/page-templates/landing-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/understrap-child/woocommerce.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/understrap-child/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
         </state>
       </provider>
     </entry>
